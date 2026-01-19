@@ -1,0 +1,7 @@
+{
+  "template": "create-react-app",
+  "view": "browser",
+  "container": {
+    "node": "18"
+  }
+}
